@@ -1,0 +1,87 @@
+/* ejercicio 4 */
+/* #box{
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+} */
+
+/* ejercicio 5 */
+/* #body{
+background-color: red;
+} */
+
+/* ejercicio 13 */
+/* div{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+} */
+
+/* ejercicio 20 */
+/* .clase-magica {
+  color: greenyellow;
+  border: red solid 2px;
+  font-size: 72px;
+} */
+
+/* ejercicio 21 */
+/* .noche{
+    background-color: black;
+    color:white;
+} */
+
+/* ejercicio 22 */
+/* p{
+    opacity: 0;
+    transition: 2s ease;
+} */
+
+/* ejercicio 23 */
+/* .container,
+.fuego,
+.agua,
+.tierra {
+  width: 300px;
+  height: 300px;
+  background-color: #b6b6b6;
+  border-radius: 30px;
+  margin-bottom: 30px;
+}
+
+.fuego {
+  background-color: red;
+  border: orange solid 1px;
+}
+
+.agua {
+  background-color: aqua;
+  border: blue solid 1px;
+}
+
+.tierra {
+  background-color: greenyellow;
+  border: green solid 1px;
+} */
+
+/* ejercicio 24 */
+/* .container{
+  width: 300px;
+  height: 300px;
+  background-color: #b6b6b6;
+  border-radius: 30px;
+  margin-bottom: 30px;
+} */
+
+/* ejercicio 25 */
+.button{
+width: 100px;  
+height: 35px;
+border: none;
+border-radius: 20px;
+background-color: rgb(187, 0, 234);
+color: white;
+font-weight: bolder;
+inset: 0;
+margin: auto;
+position: absolute;
+}
